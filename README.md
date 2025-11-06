@@ -1,4 +1,4 @@
-<h1 align="center">🃏 Blackjack </h1>
+<h1 align="center"> Blackjack </h1>
 
 <p align="center">
 A simple, text-based Blackjack game written in Python. The game allows the player to draw cards, hold, view statistics, and play multiple rounds using a menu-based terminal interface.
