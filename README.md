@@ -11,8 +11,7 @@ A simple, text-based Blackjack game written in Python. The game allows the playe
 Blackjack/
 │
 ├── blackjack.py       
-├── p1_random.py       
-├── venv/              
+├── p1_random.py                    
 └── .gitignore
 ```
 
